@@ -1,0 +1,36 @@
+{
+    "questions": [
+        {
+            "question": "Normalmente, quantos litros de sangue uma pessoa tem? Em média, quantos são retirados numa doação de sangue?",
+            "a": "Tem entre 2 a 4 litros. São retirados 450 mililitros",
+            "b": "Tem entre 4 a 6 litros. São retirados 450 mililitros",
+            "c": "Tem 10 litros. São retirados 2 litros",
+            "d": "Tem 7 litros. São retirados 1,5 litros",
+            "right": "b"
+        },
+        {
+            "question": "De quem é a famosa frase “Penso, logo existo”?",
+            "a": "Platão",
+            "b": "Gallileu Gallilei",
+            "c": "Descartes",
+            "d": "Sócrates",
+            "right": "c"
+        },
+        {
+            "question": "De onde é a invenção do chuveiro elétrico?",
+            "a": "França",
+            "b": "Inglaterra",
+            "c": "Brasil",
+            "d": "Austrália",
+            "right": "c"
+        },
+        {
+            "question": "De onde é a invenção do chuveiro elétrico?",
+            "a": "França",
+            "b": "Inglaterra",
+            "c": "Brasil",
+            "d": "Austrália",
+            "right": "c"
+        }
+    ]
+}
